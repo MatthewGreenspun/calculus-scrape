@@ -1,4 +1,5 @@
 content/
 node_modules/
+lib/
 .env
 *.zip
